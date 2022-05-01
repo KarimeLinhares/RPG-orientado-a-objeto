@@ -17,8 +17,7 @@
 <img src="src/img/1.png">
           </p>
 
-* Troquei os heróis utilizados na aula do @felipeAguiar, pelos heróis de um jogo RPG existente (FireEmblem), assim como não somente adicionando os heróis como também vilões.
-
+* Troquei os heróis utilizados na aula do @felipeAguiar, pelos heróis de um jogo RPG existente (FireEmblem), assim como não somente adicionando os heróis como também os vilões. Também acrescentei o método random para que o valor dos ataques fosse gerado aleatoriamente.
 
 #### Heróis
 <p align="left">
